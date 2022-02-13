@@ -1,0 +1,7 @@
+apt update&&upgrade
+pkg install git
+pkg install python
+apt install python
+git clone https://github.com/MusHACKER/Noob-BOMB3R.git
+cd Noob-B0MB3R
+python bomba.py
